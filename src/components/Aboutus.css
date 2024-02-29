@@ -1,0 +1,13 @@
+.aboutcontainer{
+    margin: 4rem 6rem;
+    text-align: start;
+}
+.aboutcontainer h1{
+    padding-bottom: 1rem;
+    text-align: left;
+    font-weight: 700;
+}
+.aboutcontainer p{
+    padding-bottom: 2rem;
+    font-size: 18px;
+}

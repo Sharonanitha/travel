@@ -1,0 +1,10 @@
+.para{
+    text-align: center;
+    font-size: 19px;
+}
+.t-image{
+     margin-top: 3rem;
+}
+img{
+    display: flex;
+}
